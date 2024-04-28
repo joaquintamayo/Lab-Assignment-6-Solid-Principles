@@ -1,6 +1,6 @@
 # Lab-Assignment-6-Solid-Principles
 
-Improve the following codes to implement SOLID principles in OOP.
+### Improve the following codes to implement SOLID principles in OOP.
 
 public interface Order {
 
@@ -52,5 +52,9 @@ public class OrderTest {
     order.sendEmailNotification("johndoe@example.com");
   }
 }
+
+![Blank diagram (5)](https://github.com/joaquintamayo/Lab-Assignment-6-Solid-Principles/assets/152839460/c2c2c045-bb3c-4c51-af08-94d461f6239a)
+
+
 
 
